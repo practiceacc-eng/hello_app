@@ -12,9 +12,10 @@ src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/r29/html5.min.j s"></script> <![
   <body> 
   <header class="navbar navbar-fixed-top navbar-inverse"> 
     <div class="container">
-       <%= link_to "Aleph's App", '#', id: "logo" %> <nav> 
+       <%= link_to "Aleph's App", home_path, id: "logo" %> <nav> 
        <ul class="nav navbar-nav navbar-right"> 
-         <li><%= link_to "Home", home_path %></li> 
+         <li><%= link_to "Home", home_path %></li>
+         <li><%= link_to "8Ball", roll_path %></li>
          <li><%= link_to "Help", help_path %></li> 
          <li><%= link_to "About Us", about_path %></li>
        </ul> 

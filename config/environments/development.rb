@@ -62,4 +62,8 @@ Rails.application.configure do
   
   # allow connections to local server.
   config.hosts.clear
+  
+  # prevents 'cannot render console from X_IP error'
+ # config.web_console.whiny_requests = false
+  config.web_console.whitelisted_ips = '98.22.14.20'
 end

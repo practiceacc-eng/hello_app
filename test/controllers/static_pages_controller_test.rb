@@ -23,5 +23,11 @@ class StaticPagesControllerTest < ActionDispatch::IntegrationTest
     assert_response :success
     assert_select "title", "#{@base_title} | About"
   end
+  
+  test "should get roll" do
+    get roll_path
+    assert_response :success
+    assert_select "title", "#{@base_title} | 8Ball"
+  end
 
 end
