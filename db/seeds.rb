@@ -5,3 +5,27 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+#User.create(player: "Virgil Van Dijk", team: "Liverpool", points: 122, cost: 10.1, position: "Defender")
+#User.create(player: "Ngolo Kante", team: "Chelsea", points: 93, cost: 8.5, position: "Midfielder")
+#User.create(player: "James Maddison", team: "Leicester", points: 66, cost: 7.5, position: "Midfielder")
+#User.create(player: "Harry Kane", team: "Spurs", points: 166, cost: 12.5, position: "Forward")
+#User.create(player: "Nicholas Pope", team: "Burnley", points: 88, cost: 6.0, position: "Goalkeeper")
+require 'csv'
+
+csv_text = File.read(Rails.root.join('lib', 'seeds', 'fpl.csv'))
+
+csv = CSV.parse(csv_text, :headers => true, :encoding => 'ISO-8859-1')
+
+csv.each do |row|
+
+  m = User.new
+
+  m.player = row['player']
+
+  m.save
+
+  puts "#{m.player} saved"
+
+end
+
+puts "There are now #{User.count} rows in the Maindishes table."

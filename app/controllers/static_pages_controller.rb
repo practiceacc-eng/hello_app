@@ -29,5 +29,10 @@ class StaticPagesController < ApplicationController
                "Ben Davies",
                "Ozan Kabak"].sample
   end
+
+  def index
+    user_list = User.all
+    @users = user_list
+  end
   
 end

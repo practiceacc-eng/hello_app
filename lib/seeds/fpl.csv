@@ -1,0 +1,668 @@
+﻿player,team,points,cost,position
+Ederson,Man City,107,£6.1,Goalkeeper
+Alisson,Liverpool,73,£5.9,Goalkeeper
+Pope,Burnley,110,£5.6,Goalkeeper
+Lloris,Spurs,93,£5.6,Goalkeeper
+Schmeichel,Leicester,99,£5.5,Goalkeeper
+de Gea,Man Utd,75,£5.3,Goalkeeper
+Patrício,Wolves,79,£5.3,Goalkeeper
+Martínez,Aston Villa,128,£5.2,Goalkeeper
+Henderson,Man Utd,5,£5.2,Goalkeeper
+Fabianski,West Ham,89,£5.1,Goalkeeper
+Mendy,Chelsea,80,£5.1,Goalkeeper
+Leno,Arsenal,90,£5.0,Goalkeeper
+Darlow,Newcastle,76,£5.0,Goalkeeper
+Romero,Man Utd,0,£4.9,Goalkeeper
+Guaita,Crystal Palace,78,£4.8,Goalkeeper
+Pickford,Everton,50,£4.8,Goalkeeper
+Dubravka,Newcastle,0,£4.8,Goalkeeper
+Arrizabalaga,Chelsea,6,£4.7,Goalkeeper
+Meslier,Leeds,89,£4.7,Goalkeeper
+Caballero,Chelsea,1,£4.6,Goalkeeper
+Ramsdale,Sheffield Utd,57,£4.6,Goalkeeper
+Heaton,Aston Villa,0,£4.5,Goalkeeper
+Bravo,Man City,0,£4.5,Goalkeeper
+McCarthy,Southampton,78,£4.5,Goalkeeper
+Johnstone,West Brom,66,£4.5,Goalkeeper
+Roberto,West Ham,0,£4.5,Goalkeeper
+Areola,Fulham,83,£4.5,Goalkeeper
+Kelleher,Liverpool,10,£4.5,Goalkeeper
+Olsen,Everton,12,£4.5,Goalkeeper
+Butland,Crystal Palace,0,£4.5,Goalkeeper
+Sánchez,Brighton,58,£4.5,Goalkeeper
+Sarkic,Wolves,0,£4.4,Goalkeeper
+Steffen,Man City,2,£4.4,Goalkeeper
+Rúnarsson,Arsenal,1,£4.4,Goalkeeper
+Hennessey,Crystal Palace,0,£4.3,Goalkeeper
+Lössl,Everton,0,£4.3,Goalkeeper
+Virgínia,Everton,0,£4.3,Goalkeeper
+Bettinelli,Fulham,0,£4.3,Goalkeeper
+Rodák,Fulham,1,£4.3,Goalkeeper
+Ward,Leicester,0,£4.3,Goalkeeper
+Moore,Sheffield Utd,0,£4.3,Goalkeeper
+Foderingham,Sheffield Utd,0,£4.3,Goalkeeper
+Gunn,Southampton,0,£4.3,Goalkeeper
+Gazzaniga,Spurs,0,£4.3,Goalkeeper
+Randolph,West Ham,6,£4.3,Goalkeeper
+Ruddy,Wolves,0,£4.3,Goalkeeper
+Hart,Spurs,0,£4.3,Goalkeeper
+Gillespie,Newcastle,0,£4.3,Goalkeeper
+Ryan,Arsenal,29,£4.2,Goalkeeper
+Casilla,Leeds,2,£4.2,Goalkeeper
+Adrián,Liverpool,2,£4.2,Goalkeeper
+Nyland,Aston Villa,0,£4.0,Goalkeeper
+Button,West Brom,2,£4.0,Goalkeeper
+Peacock-Farrell,Burnley,0,£4.0,Goalkeeper
+Miazek,Leeds,0,£4.0,Goalkeeper
+Martin,West Ham,0,£4.0,Goalkeeper
+Walton,Brighton,0,£4.0,Goalkeeper
+Forster,Southampton,6,£4.0,Goalkeeper
+Macey,Arsenal,0,£4.0,Goalkeeper
+Steele,Brighton,0,£4.0,Goalkeeper
+Caprile,Leeds,0,£4.0,Goalkeeper
+Henderson,Crystal Palace,0,£4.0,Goalkeeper
+Verrips,Sheffield Utd,0,£4.0,Goalkeeper
+Norris,Burnley,0,£4.0,Goalkeeper
+Ziger,Chelsea,0,£4.0,Goalkeeper
+Trafford,Man City,0,£4.0,Goalkeeper
+Grant,Man Utd,0,£4.0,Goalkeeper
+Langley,Newcastle,0,£4.0,Goalkeeper
+Söndergaard,Wolves,0,£4.0,Goalkeeper
+Lewis,Southampton,0,£4.0,Goalkeeper
+Lonergan,West Brom,0,£4.0,Goalkeeper
+McGill,Brighton,0,£4.0,Goalkeeper
+Steer,Aston Villa,0,£3.9,Goalkeeper
+Fabri,Fulham,0,£3.9,Goalkeeper
+Carson,Man City,0,£3.9,Goalkeeper
+Alexander-Arnold,Liverpool,72,£7.4,Defender
+Robertson,Liverpool,95,£7.3,Defender
+van Dijk,Liverpool,15,£6.3,Defender
+Digne,Everton,49,£6.1,Defender
+Walker,Man City,68,£6.1,Defender
+Cancelo,Man City,100,£6.1,Defender
+Dias,Man City,98,£6.1,Defender
+Laporte,Man City,32,£6.0,Defender
+Pereira,Leicester,15,£5.9,Defender
+Chilwell,Chelsea,87,£5.9,Defender
+Mendy,Man City,24,£5.9,Defender
+Cresswell,West Ham,106,£5.8,Defender
+Azpilicueta,Chelsea,60,£5.7,Defender
+Alonso,Chelsea,23,£5.7,Defender
+Castagne,Leicester,54,£5.7,Defender
+Wan-Bissaka,Man Utd,95,£5.6,Defender
+Doherty,Spurs,31,£5.6,Defender
+Thiago Silva,Chelsea,77,£5.6,Defender
+Mina,Everton,61,£5.5,Defender
+Evans,Leicester,68,£5.5,Defender
+Zinchenko,Man City,44,£5.5,Defender
+Maguire,Man Utd,82,£5.5,Defender
+Reguilón,Spurs,53,£5.5,Defender
+David Luiz,Arsenal,26,£5.4,Defender
+Mings,Aston Villa,90,£5.4,Defender
+Zouma,Chelsea,78,£5.4,Defender
+van Aanholt,Crystal Palace,31,£5.4,Defender
+Matip,Liverpool,42,£5.4,Defender
+Fernandinho,Man City,27,£5.4,Defender
+Aké,Man City,21,£5.4,Defender
+Alderweireld,Spurs,55,£5.4,Defender
+Boly,Wolves,58,£5.4,Defender
+Jonny,Wolves,3,£5.4,Defender
+Telles,Man Utd,22,£5.4,Defender
+Tarkowski,Burnley,67,£5.3,Defender
+Söyüncü,Leicester,24,£5.3,Defender
+Tierney,Arsenal,65,£5.2,Defender
+Gomez,Liverpool,10,£5.2,Defender
+Stones,Man City,91,£5.2,Defender
+Aurier,Spurs,55,£5.2,Defender
+Sánchez,Spurs,17,£5.2,Defender
+Semedo,Wolves,58,£5.2,Defender
+Bellerín,Arsenal,82,£5.1,Defender
+Mee,Burnley,75,£5.1,Defender
+Keane,Everton,71,£5.1,Defender
+Mustafi,Arsenal,3,£5.0,Defender
+James,Chelsea,67,£5.0,Defender
+Justin,Leicester,101,£5.0,Defender
+Shaw,Man Utd,71,£5.0,Defender
+Stevens,Sheffield Utd,18,£5.0,Defender
+Bertrand,Southampton,59,£5.0,Defender
+Gabriel,Arsenal,51,£5.0,Defender
+Cash,Aston Villa,85,£5.0,Defender
+Fofana,Leicester,49,£5.0,Defender
+Ait Nouri,Wolves,32,£5.0,Defender
+Godfrey,Everton,37,£5.0,Defender
+Rodon,Spurs,14,£5.0,Defender
+Kabak,Liverpool,0,£5.0,Defender
+Davies,Liverpool,0,£5.0,Defender
+Targett,Aston Villa,98,£4.9,Defender
+Dunk,Brighton,81,£4.9,Defender
+Dallas,Leeds,94,£4.9,Defender
+Tsimikas,Liverpool,1,£4.9,Defender
+Otamendi,Man City,0,£4.9,Defender
+Smalling,Man Utd,0,£4.9,Defender
+Schär,Newcastle,25,£4.9,Defender
+Baldock,Sheffield Utd,29,£4.9,Defender
+Bednarek,Southampton,76,£4.9,Defender
+Dier,Spurs,58,£4.9,Defender
+Tanganga,Spurs,1,£4.9,Defender
+Ogbonna,West Ham,82,£4.9,Defender
+Saïss,Wolves,65,£4.9,Defender
+Sokratis,Arsenal,0,£4.8,Defender
+Kolasinac,Arsenal,2,£4.8,Defender
+Coleman,Everton,24,£4.8,Defender
+Holgate,Everton,39,£4.8,Defender
+Rojo,Man Utd,0,£4.8,Defender
+Jones,Man Utd,0,£4.8,Defender
+Lindelöf,Man Utd,64,£4.8,Defender
+Bailly,Man Utd,19,£4.8,Defender
+Dalot,Man Utd,0,£4.8,Defender
+Ajayi,West Brom,43,£4.8,Defender
+Coady,Wolves,59,£4.8,Defender
+Emerson,Chelsea,7,£4.7,Defender
+Christensen,Chelsea,5,£4.7,Defender
+Tomori,Chelsea,0,£4.7,Defender
+Garcia,Man City,3,£4.7,Defender
+Fernández,Newcastle,34,£4.7,Defender
+Egan,Sheffield Utd,31,£4.7,Defender
+O'Connell,Sheffield Utd,3,£4.7,Defender
+Vestergaard,Southampton,65,£4.7,Defender
+Walker-Peters,Southampton,71,£4.7,Defender
+Valery,Southampton,3,£4.7,Defender
+Rose,Spurs,0,£4.7,Defender
+Sessegnon,Spurs,0,£4.7,Defender
+Marçal,Wolves,17,£4.7,Defender
+Coufal,West Ham,74,£4.7,Defender
+Cédric,Arsenal,24,£4.6,Defender
+Maitland-Niles,West Brom,28,£4.6,Defender
+Konsa,Aston Villa,81,£4.6,Defender
+Lamptey,Brighton,35,£4.6,Defender
+Rüdiger,Chelsea,37,£4.6,Defender
+Bryan,Fulham,12,£4.6,Defender
+Basham,Sheffield Utd,37,£4.6,Defender
+Stephens,Southampton,33,£4.6,Defender
+Davies,Spurs,45,£4.6,Defender
+Chambers,Arsenal,0,£4.5,Defender
+Holding,Arsenal,72,£4.5,Defender
+Bree,Aston Villa,0,£4.5,Defender
+Montoya,Brighton,0,£4.5,Defender
+Lowton,Burnley,69,£4.5,Defender
+Cahill,Crystal Palace,15,£4.5,Defender
+Tomkins,Crystal Palace,15,£4.5,Defender
+Fuchs,Leicester,24,£4.5,Defender
+Clark,Newcastle,28,£4.5,Defender
+Furlong,West Brom,42,£4.5,Defender
+Aina,Fulham,64,£4.5,Defender
+Andersen,Fulham,50,£4.5,Defender
+Adarabioyo,Fulham,64,£4.5,Defender
+Dawson,West Ham,44,£4.5,Defender
+Clyne,Crystal Palace,28,£4.5,Defender
+Karbownik,Brighton,0,£4.5,Defender
+Marí,Arsenal,14,£4.4,Defender
+Engels,Aston Villa,0,£4.4,Defender
+Hause,Aston Villa,28,£4.4,Defender
+Webster,Brighton,61,£4.4,Defender
+Clarke,Brighton,0,£4.4,Defender
+White,Brighton,69,£4.4,Defender
+Bardsley,Burnley,2,£4.4,Defender
+Taylor,Burnley,52,£4.4,Defender
+Sakho,Crystal Palace,4,£4.4,Defender
+Ayling,Leeds,53,£4.4,Defender
+Alioski,Leeds,63,£4.4,Defender
+Morgan,Leicester,3,£4.4,Defender
+Dummett,Newcastle,5,£4.4,Defender
+Bartley,West Brom,34,£4.4,Defender
+Townsend,West Brom,28,£4.4,Defender
+Bennett,Wolves,0,£4.4,Defender
+Robinson,Fulham,39,£4.4,Defender
+Ivanovic,West Brom,18,£4.4,Defender
+Hoever,Wolves,8,£4.4,Defender
+Llorente,Leeds,1,£4.4,Defender
+El Mohamady,Aston Villa,13,£4.3,Defender
+Guilbert,Aston Villa,0,£4.3,Defender
+Duffy,Brighton,0,£4.3,Defender
+Veltman,Brighton,53,£4.3,Defender
+Pieters,Burnley,43,£4.3,Defender
+Long,Burnley,12,£4.3,Defender
+Ward,Crystal Palace,30,£4.3,Defender
+Kenny,Everton,5,£4.3,Defender
+Mawson,Fulham,0,£4.3,Defender
+Sessegnon,Fulham,0,£4.3,Defender
+Cooper,Leeds,41,£4.3,Defender
+Benkovic,Leicester,0,£4.3,Defender
+Fosu-Mensah,Man Utd,0,£4.3,Defender
+Lejeune,Newcastle,0,£4.3,Defender
+Yedlin,Newcastle,13,£4.3,Defender
+Foyth,Spurs,0,£4.3,Defender
+Gibbs,West Brom,5,£4.3,Defender
+Masuaku,West Ham,37,£4.3,Defender
+Diop,West Ham,4,£4.3,Defender
+Salisu,Southampton,1,£4.3,Defender
+Dann,Crystal Palace,33,£4.3,Defender
+Koch,Leeds,32,£4.3,Defender
+Kipre,West Brom,0,£4.3,Defender
+Ampadu,Sheffield Utd,32,£4.3,Defender
+Bogle,Sheffield Utd,26,£4.3,Defender
+Lowe,Sheffield Utd,9,£4.3,Defender
+Tete,Fulham,29,£4.3,Defender
+Kongolo,Fulham,0,£4.3,Defender
+Taylor,Aston Villa,-1,£4.2,Defender
+Burn,Brighton,35,£4.2,Defender
+Ream,Fulham,7,£4.2,Defender
+Hector,Fulham,0,£4.2,Defender
+Christie,Fulham,0,£4.2,Defender
+Thomas,Leicester,4,£4.2,Defender
+Tuanzebe,Man Utd,2,£4.2,Defender
+Williams,Man Utd,1,£4.2,Defender
+Lascelles,Newcastle,16,£4.2,Defender
+Manquillo,Newcastle,25,£4.2,Defender
+Krafth,Newcastle,7,£4.2,Defender
+Jack Robinson,Sheffield Utd,13,£4.2,Defender
+O'Shea,West Brom,14,£4.2,Defender
+Fredericks,West Ham,16,£4.2,Defender
+Balbuena,West Ham,40,£4.2,Defender
+Lewis,Newcastle,39,£4.2,Defender
+Odoi,Fulham,1,£4.2,Defender
+Kelly,Crystal Palace,0,£4.1,Defender
+Le Marchand,Fulham,1,£4.1,Defender
+Hegazi,West Brom,6,£4.1,Defender
+Vinagre,Wolves,1,£4.1,Defender
+Saliba,Arsenal,0,£4.0,Defender
+Kilman,Wolves,54,£4.0,Defender
+Woods,Crystal Palace,0,£4.0,Defender
+Inniss,Crystal Palace,0,£4.0,Defender
+Driscoll-Glennon,Burnley,0,£4.0,Defender
+Nkounkou,Everton,1,£4.0,Defender
+Phillips,Liverpool,13,£4.0,Defender
+Rhys Williams,Liverpool,3,£4.0,Defender
+Ramsay,Southampton,-3,£4.0,Defender
+Peltier,West Brom,2,£4.0,Defender
+Richards,Wolves,0,£4.0,Defender
+Cresswell,Leeds,0,£4.0,Defender
+Mbete,Man City,0,£4.0,Defender
+Harwood-Bellis,Man City,0,£4.0,Defender
+Lonwijk,Wolves,0,£4.0,Defender
+Tchaptchet,Southampton,0,£4.0,Defender
+Alves,West Ham,0,£4.0,Defender
+Gordon,Sheffield Utd,0,£4.0,Defender
+Bueno,Wolves,0,£4.0,Defender
+Nartey,Burnley,0,£4.0,Defender
+Daley-Campbell,Leicester,0,£4.0,Defender
+Bernardo,Brighton,5,£3.9,Defender
+Gibson,Burnley,0,£3.9,Defender
+Mitchell,Crystal Palace,33,£3.9,Defender
+Branthwaite,Everton,0,£3.9,Defender
+Struijk,Leeds,35,£3.9,Defender
+Davis,Leeds,2,£3.9,Defender
+Casey,Leeds,0,£3.9,Defender
+Amartey,Leicester,6,£3.9,Defender
+Mengi,Man Utd,0,£3.9,Defender
+Watts,Newcastle,0,£3.9,Defender
+Vokins,Southampton,1,£3.9,Defender
+Johnson,West Ham,11,£3.9,Defender
+Buur,Wolves,1,£3.9,Defender
+Thomas,Burnley,0,£3.9,Defender
+Carter-Vickers,Spurs,0,£3.9,Defender
+Jagielka,Sheffield Utd,3,£3.9,Defender
+Bryan,Sheffield Utd,12,£3.9,Defender
+Marques,Wolves,0,£3.9,Defender
+Ferguson,Crystal Palace,0,£3.8,Defender
+Douglas,Leeds,0,£3.8,Defender
+Neco Williams,Liverpool,8,£3.8,Defender
+Dunne,Burnley,8,£3.8,Defender
+Salah,Liverpool,162,£12.6,Midfielder
+Mané,Liverpool,107,£11.8,Midfielder
+De Bruyne,Man City,95,£11.8,Midfielder
+Sterling,Man City,119,£11.6,Midfielder
+Fernandes,Man Utd,178,£11.5,Midfielder
+Aubameyang,Arsenal,93,£11.3,Midfielder
+Rashford,Man Utd,114,£9.6,Midfielder
+Son,Spurs,157,£9.6,Midfielder
+Bale,Spurs,18,£9.3,Midfielder
+Pulisic,Chelsea,38,£8.2,Midfielder
+Havertz,Chelsea,45,£8.2,Midfielder
+Mahrez,Man City,76,£8.1,Midfielder
+Ziyech,Chelsea,40,£8.0,Midfielder
+Grealish,Aston Villa,129,£7.8,Midfielder
+Rodríguez,Everton,70,£7.7,Midfielder
+Pépé,Arsenal,41,£7.6,Midfielder
+Pogba,Man Utd,65,£7.6,Midfielder
+Willian,Arsenal,45,£7.5,Midfielder
+Bernardo Silva,Man City,52,£7.4,Midfielder
+Alli,Spurs,5,£7.4,Midfielder
+Maddison,Leicester,110,£7.3,Midfielder
+Zaha,Crystal Palace,102,£7.1,Midfielder
+Greenwood,Man Utd,39,£7.0,Midfielder
+Bergwijn,Spurs,39,£7.0,Midfielder
+Torres,Man City,45,£6.9,Midfielder
+Lo Celso,Spurs,20,£6.9,Midfielder
+Mount,Chelsea,86,£6.8,Midfielder
+Sigurdsson,Everton,66,£6.8,Midfielder
+Barnes,Leicester,112,£6.8,Midfielder
+Özil,Arsenal,0,£6.7,Midfielder
+Lucas Moura,Spurs,33,£6.6,Midfielder
+Jota,Liverpool,47,£6.6,Midfielder
+van de Beek,Man Utd,18,£6.6,Midfielder
+Tielemans,Leicester,94,£6.4,Midfielder
+Shaqiri,Liverpool,21,£6.4,Midfielder
+Redmond,Southampton,26,£6.4,Midfielder
+Lanzini,West Ham,19,£6.4,Midfielder
+Chamberlain,Liverpool,10,£6.3,Midfielder
+Lallana,Brighton,31,£6.2,Midfielder
+James,Man Utd,17,£6.2,Midfielder
+Gündogan,Man City,123,£6.1,Midfielder
+Foden,Man City,86,£6.1,Midfielder
+Felipe Anderson,West Ham,2,£6.1,Midfielder
+Pérez,Leicester,37,£6.0,Midfielder
+Minamino,Southampton,26,£6.0,Midfielder
+Lingard,West Ham,18,£6.0,Midfielder
+Ward-Prowse,Southampton,100,£6.0,Midfielder
+Bowen,West Ham,87,£6.0,Midfielder
+Traoré,Wolves,41,£6.0,Midfielder
+Benrahma,West Ham,34,£6.0,Midfielder
+Ødegaard,Arsenal,4,£6.0,Midfielder
+Hourihane,Aston Villa,20,£5.9,Midfielder
+Jota,Aston Villa,0,£5.9,Midfielder
+Barkley,Aston Villa,56,£5.9,Midfielder
+Loftus-Cheek,Fulham,45,£5.9,Midfielder
+Iwobi,Everton,50,£5.9,Midfielder
+Ndombele,Spurs,68,£5.9,Midfielder
+Fornals,West Ham,76,£5.9,Midfielder
+Traoré,Aston Villa,72,£5.9,Midfielder
+Groß,Brighton,69,£5.8,Midfielder
+Walcott,Southampton,57,£5.8,Midfielder
+Mata,Man Utd,19,£5.8,Midfielder
+Eze,Crystal Palace,76,£5.8,Midfielder
+Trossard,Brighton,77,£5.7,Midfielder
+McNeil,Burnley,64,£5.7,Midfielder
+Hudson-Odoi,Chelsea,42,£5.7,Midfielder
+Bernard,Everton,14,£5.7,Midfielder
+Hernández,Leeds,18,£5.7,Midfielder
+Lamela,Spurs,16,£5.7,Midfielder
+Neto,Wolves,105,£5.7,Midfielder
+Ünder,Leicester,15,£5.7,Midfielder
+Milivojevic,Crystal Palace,30,£5.6,Midfielder
+Almirón,Newcastle,68,£5.6,Midfielder
+Fleck,Sheffield Utd,40,£5.6,Midfielder
+Snodgrass,West Brom,12,£5.6,Midfielder
+Fraser,Newcastle,25,£5.6,Midfielder
+Thiago,Liverpool,18,£5.6,Midfielder
+McGinn,Aston Villa,70,£5.5,Midfielder
+Izquierdo,Brighton,0,£5.5,Midfielder
+Townsend,Crystal Palace,62,£5.5,Midfielder
+Armstrong,Southampton,71,£5.5,Midfielder
+Yarmolenko,West Ham,16,£5.5,Midfielder
+Pereira,West Brom,77,£5.5,Midfielder
+Gallagher,West Brom,45,£5.5,Midfielder
+Sanson,Aston Villa,1,£5.5,Midfielder
+El Ghazi,Aston Villa,51,£5.4,Midfielder
+Jahanbakhsh,Brighton,13,£5.4,Midfielder
+Gudmundsson,Burnley,34,£5.4,Midfielder
+Harrison,Leeds,96,£5.4,Midfielder
+Henderson,Liverpool,55,£5.4,Midfielder
+Fabinho,Liverpool,41,£5.4,Midfielder
+Boufal,Southampton,0,£5.4,Midfielder
+Djenepo,Southampton,34,£5.4,Midfielder
+Soucek,West Ham,106,£5.4,Midfielder
+Diallo,Man Utd,0,£5.4,Midfielder
+Saka,Arsenal,90,£5.3,Midfielder
+Mac Allister,Brighton,32,£5.3,Midfielder
+Westwood,Burnley,65,£5.3,Midfielder
+Kovacic,Chelsea,37,£5.3,Midfielder
+Schlupp,Crystal Palace,44,£5.3,Midfielder
+André Gomes,Everton,29,£5.3,Midfielder
+Cavaleiro,Fulham,56,£5.3,Midfielder
+Milner,Liverpool,31,£5.3,Midfielder
+Wijnaldum,Liverpool,66,£5.3,Midfielder
+Rodrigo,Man City,60,£5.3,Midfielder
+Fred,Man Utd,37,£5.3,Midfielder
+Shelvey,Newcastle,37,£5.3,Midfielder
+Podence,Wolves,64,£5.3,Midfielder
+Raphinha,Leeds,80,£5.3,Midfielder
+Xhaka,Arsenal,49,£5.2,Midfielder
+Trézéguet,Aston Villa,30,£5.2,Midfielder
+McArthur,Crystal Palace,45,£5.2,Midfielder
+Davies,Everton,23,£5.2,Midfielder
+Cairney,Fulham,27,£5.2,Midfielder
+Klich,Leeds,77,£5.2,Midfielder
+Albrighton,Leicester,40,£5.2,Midfielder
+Praet,Leicester,35,£5.2,Midfielder
+Keita,Liverpool,12,£5.2,Midfielder
+Atsu,Newcastle,0,£5.2,Midfielder
+Grosicki,West Brom,8,£5.2,Midfielder
+Moutinho,Wolves,45,£5.2,Midfielder
+Allan,Everton,21,£5.2,Midfielder
+Doucouré,Everton,61,£5.2,Midfielder
+Pellistri,Man Utd,0,£5.2,Midfielder
+Nelson,Arsenal,2,£5.1,Midfielder
+Gray,Leicester,1,£5.1,Midfielder
+Harry Wilson,Liverpool,0,£5.1,Midfielder
+Saint-Maximin,Newcastle,40,£5.1,Midfielder
+Winks,Spurs,11,£5.1,Midfielder
+Phillips,West Brom,36,£5.1,Midfielder
+Neves,Wolves,71,£5.1,Midfielder
+Tau,Brighton,3,£5.1,Midfielder
+Mooy,Brighton,0,£5.0,Midfielder
+March,Brighton,69,£5.0,Midfielder
+Cork,Burnley,10,£5.0,Midfielder
+Brady,Burnley,42,£5.0,Midfielder
+Gbamin,Everton,0,£5.0,Midfielder
+Knockaert,Fulham,0,£5.0,Midfielder
+Costa,Leeds,44,£5.0,Midfielder
+Diangana,West Brom,33,£5.0,Midfielder
+Freeman,Sheffield Utd,0,£5.0,Midfielder
+Lookman,Fulham,68,£5.0,Midfielder
+Moder,Brighton,0,£5.0,Midfielder
+Caicedo,Brighton,0,£5.0,Midfielder
+Martinelli,Arsenal,9,£4.9,Midfielder
+Douglas Luiz,Aston Villa,49,£4.9,Midfielder
+Brownhill,Burnley,41,£4.9,Midfielder
+Kanté,Chelsea,39,£4.9,Midfielder
+Kouyaté,Crystal Palace,54,£4.9,Midfielder
+Phillips,Leeds,44,£4.9,Midfielder
+McTominay,Man Utd,66,£4.9,Midfielder
+Ritchie,Newcastle,12,£4.9,Midfielder
+Lundstram,Sheffield Utd,32,£4.9,Midfielder
+Berge,Sheffield Utd,29,£4.9,Midfielder
+Højbjerg,Spurs,65,£4.9,Midfielder
+Wilshere,West Ham,0,£4.9,Midfielder
+Gibbs-White,Wolves,4,£4.9,Midfielder
+Matty Longstaff,Newcastle,10,£4.9,Midfielder
+Murphy,Newcastle,30,£4.9,Midfielder
+Krovinovic,West Brom,17,£4.9,Midfielder
+Partey,Arsenal,21,£4.9,Midfielder
+Pröpper,Brighton,7,£4.8,Midfielder
+Delph,Everton,6,£4.8,Midfielder
+Kamara,Fulham,8,£4.8,Midfielder
+Forshaw,Leeds,0,£4.8,Midfielder
+Shackleton,Leeds,14,£4.8,Midfielder
+Ndidi,Leicester,40,£4.8,Midfielder
+Pereira,Man Utd,0,£4.8,Midfielder
+Aarons,Newcastle,0,£4.8,Midfielder
+Field,West Brom,3,£4.8,Midfielder
+Torreira,Arsenal,0,£4.7,Midfielder
+Willock,Newcastle,16,£4.7,Midfielder
+Guendouzi,Arsenal,0,£4.7,Midfielder
+Jorginho,Chelsea,71,£4.7,Midfielder
+Meyer,Crystal Palace,0,£4.7,Midfielder
+McDonald,Fulham,0,£4.7,Midfielder
+Johansen,Fulham,0,£4.7,Midfielder
+Kebano,Fulham,6,£4.7,Midfielder
+Grot,Leeds,0,£4.7,Midfielder
+Choudhury,Leicester,9,£4.7,Midfielder
+Matic,Man Utd,23,£4.7,Midfielder
+Hayden,Newcastle,30,£4.7,Midfielder
+Osborn,Sheffield Utd,19,£4.7,Midfielder
+Sissoko,Spurs,37,£4.7,Midfielder
+Fernandes,Spurs,0,£4.7,Midfielder
+Livermore,West Brom,23,£4.7,Midfielder
+Sawyers,West Brom,33,£4.7,Midfielder
+Edwards,West Brom,5,£4.7,Midfielder
+Rice,West Ham,55,£4.7,Midfielder
+Sean Longstaff,Newcastle,21,£4.7,Midfielder
+Ceballos,Arsenal,38,£4.7,Midfielder
+Vitinha,Wolves,16,£4.7,Midfielder
+Onomah,Fulham,5,£4.6,Midfielder
+Seri,Fulham,0,£4.6,Midfielder
+Roberts,Leeds,15,£4.6,Midfielder
+Noble,West Ham,13,£4.6,Midfielder
+Dendoncker,Wolves,45,£4.6,Midfielder
+Anguissa,Fulham,54,£4.5,Midfielder
+Norwood,Sheffield Utd,24,£4.5,Midfielder
+Oriol Romeu,Southampton,47,£4.5,Midfielder
+Leko,West Brom,0,£4.5,Midfielder
+Hendrick,Newcastle,47,£4.5,Midfielder
+Lemina,Fulham,24,£4.5,Midfielder
+Benson,Burnley,10,£4.5,Midfielder
+Bernabé,Man City,0,£4.5,Midfielder
+Molumby,Brighton,1,£4.5,Midfielder
+Goodridge,Burnley,0,£4.5,Midfielder
+Ramsey,Aston Villa,10,£4.5,Midfielder
+Diallo,Southampton,15,£4.5,Midfielder
+Otasowie,Wolves,6,£4.5,Midfielder
+Jenkins,Leeds,0,£4.5,Midfielder
+Clarkson,Liverpool,0,£4.5,Midfielder
+Anderson,Newcastle,1,£4.5,Midfielder
+Anjorin,Chelsea,0,£4.5,Midfielder
+Cain,Liverpool,0,£4.5,Midfielder
+Nmecha,Man City,0,£4.5,Midfielder
+Corbeanu,Wolves,0,£4.5,Midfielder
+Perry,Wolves,0,£4.5,Midfielder
+Cundle,Wolves,0,£4.5,Midfielder
+Khadra,Brighton,1,£4.5,Midfielder
+Jenks,Brighton,0,£4.5,Midfielder
+Sanders,Brighton,0,£4.5,Midfielder
+Weir,Brighton,0,£4.5,Midfielder
+Ferry,Southampton,0,£4.5,Midfielder
+Watts,Southampton,0,£4.5,Midfielder
+Jankewitz,Southampton,-1,£4.5,Midfielder
+Onyango,Everton,0,£4.5,Midfielder
+Devine,Spurs,0,£4.5,Midfielder
+Yokuslu,West Brom,3,£4.5,Midfielder
+Finnigan,Southampton,0,£4.5,Midfielder
+Ndiaye,Sheffield Utd,0,£4.5,Midfielder
+Brunt,Sheffield Utd,0,£4.5,Midfielder
+Gomes,Man City,0,£4.5,Midfielder
+Leshabela,Leicester,0,£4.5,Midfielder
+Bissouma,Brighton,47,£4.4,Midfielder
+Gilmour,Chelsea,2,£4.4,Midfielder
+Riedewald,Crystal Palace,45,£4.4,Midfielder
+Silva,Leicester,0,£4.4,Midfielder
+Jones,Liverpool,31,£4.4,Midfielder
+Doyle,Man City,0,£4.4,Midfielder
+Chong,Man Utd,0,£4.4,Midfielder
+Garner,Man Utd,0,£4.4,Midfielder
+Reed,Fulham,44,£4.4,Midfielder
+Smallbone,Southampton,5,£4.4,Midfielder
+Skipp,Spurs,0,£4.4,Midfielder
+Palmer,Man City,0,£4.4,Midfielder
+Shabani,Wolves,0,£4.4,Midfielder
+Mancini,Burnley,0,£4.4,Midfielder
+Chauke,Southampton,0,£4.4,Midfielder
+Smith Rowe,Arsenal,41,£4.3,Midfielder
+Lansbury,Aston Villa,0,£4.3,Midfielder
+Nakamba,Aston Villa,11,£4.3,Midfielder
+McCarthy,Crystal Palace,13,£4.3,Midfielder
+Pierrick,Crystal Palace,0,£4.3,Midfielder
+Gordon,Everton,3,£4.3,Midfielder
+Stevens,Leeds,0,£4.3,Midfielder
+James,Leicester,0,£4.3,Midfielder
+Elliott,Liverpool,0,£4.3,Midfielder
+Sims,Southampton,0,£4.3,Midfielder
+Harper,West Brom,2,£4.3,Midfielder
+Jordao,Wolves,0,£4.3,Midfielder
+Mendy,Leicester,34,£4.3,Midfielder
+Tella,Southampton,5,£4.3,Midfielder
+Bogusz,Leeds,0,£4.3,Midfielder
+Stephens,Burnley,7,£4.2,Midfielder
+Alzate,Brighton,27,£4.2,Midfielder
+Poveda-Ocampo,Leeds,10,£4.2,Midfielder
+Burke,Sheffield Utd,34,£4.2,Midfielder
+Elneny,Arsenal,24,£4.2,Midfielder
+Kane,Spurs,153,£11.0,Forward
+Agüero,Man City,6,£10.3,Forward
+Vardy,Leicester,123,£10.1,Forward
+Firmino,Liverpool,93,£9.3,Forward
+Werner,Chelsea,87,£9.2,Forward
+Jesus,Man City,60,£9.2,Forward
+Martial,Man Utd,67,£8.7,Forward
+Ings,Southampton,89,£8.4,Forward
+Lacazette,Arsenal,80,£8.3,Forward
+Jiménez,Wolves,43,£8.2,Forward
+Cavani,Man Utd,58,£8.0,Forward
+Richarlison,Everton,60,£7.9,Forward
+Calvert-Lewin,Everton,120,£7.7,Forward
+Abraham,Chelsea,65,£7.2,Forward
+Willian José,Wolves,12,£7.0,Forward
+Carlos Vinicius,Spurs,7,£6.9,Forward
+Bamford,Leeds,132,£6.8,Forward
+Giroud,Chelsea,33,£6.7,Forward
+Antonio,West Ham,65,£6.6,Forward
+Wilson,Newcastle,116,£6.6,Forward
+Watkins,Aston Villa,102,£6.4,Forward
+Wood,Burnley,63,£6.2,Forward
+Maupay,Brighton,78,£6.1,Forward
+Ighalo,Man Utd,1,£6.1,Forward
+Haller,West Ham,41,£6.1,Forward
+Wesley,Aston Villa,0,£6.0,Forward
+Barnes,Burnley,39,£6.0,Forward
+Tosun,Everton,4,£6.0,Forward
+Diagne,West Brom,16,£6.0,Forward
+Samatta,Aston Villa,0,£5.9,Forward
+Gayle,Newcastle,14,£5.9,Forward
+Cutrone,Wolves,2,£5.9,Forward
+Mateta,Crystal Palace,3,£5.9,Forward
+Rodriguez,Burnley,35,£5.8,Forward
+Mousset,Sheffield Utd,8,£5.8,Forward
+Adams,Southampton,83,£5.8,Forward
+Batshuayi,Crystal Palace,34,£5.7,Forward
+Kean,Everton,2,£5.7,Forward
+Joelinton,Newcastle,39,£5.7,Forward
+Rodrigo,Leeds,55,£5.7,Forward
+Grant,West Brom,36,£5.7,Forward
+Ayew,Crystal Palace,47,£5.6,Forward
+Iheanacho,Leicester,18,£5.6,Forward
+McBurnie,Sheffield Utd,32,£5.6,Forward
+Benteke,Crystal Palace,43,£5.5,Forward
+Mitrović,Fulham,46,£5.5,Forward
+Sharp,Sheffield Utd,31,£5.5,Forward
+Hugill,West Ham,0,£5.5,Forward
+Ajeti,West Ham,0,£5.5,Forward
+Welbeck,Brighton,38,£5.5,Forward
+King,Everton,3,£5.5,Forward
+Maja,Fulham,14,£5.5,Forward
+Nketiah,Arsenal,27,£5.4,Forward
+Callum Robinson,West Brom,52,£5.4,Forward
+Decordova-Reid,Fulham,61,£5.3,Forward
+Connolly,Brighton,34,£5.2,Forward
+Origi,Liverpool,9,£5.2,Forward
+Carroll,Newcastle,25,£5.2,Forward
+McGoldrick,Sheffield Utd,61,£5.2,Forward
+Robson-Kanu,West Brom,8,£5.2,Forward
+Fabio Silva,Wolves,33,£5.2,Forward
+Long,Southampton,12,£5.1,Forward
+Austin,West Brom,5,£5.1,Forward
+Zeqiri,Brighton,3,£5.0,Forward
+Slimani,Leicester,1,£4.9,Forward
+Murray,Brighton,0,£4.8,Forward
+Andone,Brighton,0,£4.8,Forward
+Vydra,Burnley,17,£4.8,Forward
+Muto,Newcastle,0,£4.8,Forward
+Zohore,West Brom,0,£4.8,Forward
+Bonatini,Wolves,0,£4.8,Forward
+Campana,Wolves,0,£4.8,Forward
+Obafemi,Southampton,1,£4.6,Forward
+N'Lundulu,Southampton,9,£4.5,Forward
+Thompson,Burnley,0,£4.5,Forward
+Richardson,Burnley,0,£4.5,Forward
+Simms,Everton,0,£4.5,Forward
+Mumbongo,Burnley,1,£4.5,Forward
+Huggins,Leeds,1,£4.5,Forward
+Diaby,West Brom,0,£4.5,Forward
+Odubeko,West Ham,0,£4.5,Forward
+Scarlett,Spurs,1,£4.5,Forward
+Gelhardt,Leeds,0,£4.5,Forward
+Wickham,Crystal Palace,0,£4.4,Forward
+Brewster,Sheffield Utd,23,£4.4,Forward
+Hackford,Sheffield Utd,1,£4.4,Forward
+Davis,Aston Villa,5,£4.3,Forward
+Vassilev,Aston Villa,0,£4.3,Forward
+Delap,Man City,1,£4.3,Forward
