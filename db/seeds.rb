@@ -13,19 +13,17 @@
 require 'csv'
 
 csv_text = File.read(Rails.root.join('lib', 'seeds', 'fpl.csv'))
-
 csv = CSV.parse(csv_text, :headers => true, :encoding => 'ISO-8859-1')
-
 csv.each do |row|
+  t = User.new
+  t.player = row[0] # corresponds to player name.
+  t.team = row['team']
+  t.points = row['points']
+  t.cost = row['decimal']
+  t.position = row['position']
 
-  m = User.new
-
-  m.player = row['player']
-
-  m.save
-
-  puts "#{m.player} saved"
-
+  t.save
+  puts "#{t.player}, #{t.team} saved"
 end
 
-puts "There are now #{User.count} rows in the Maindishes table."
+puts "There are now #{User.count} rows in the transactions table"
