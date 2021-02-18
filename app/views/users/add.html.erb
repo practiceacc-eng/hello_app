@@ -1,0 +1,14 @@
+<% provide(:title, 'Add Player') %>
+
+<h1>Add Player</h1>
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <%= form_with(model: @user, local: true) do |f| %> <%= f.label :player %> <%= f.text_field :player %>
+      <%= f.label :team %> <%= f.text_field :team %>
+      <%= f.label :points %> <%= f.text_field :points %>
+      <%= f.label :cost %> <%= f.text_field :cost %>
+      <%= f.label :position %> <%= f.text_field :position %>
+
+      <%= f.submit "Add a new player", class: "btn btnprimary"%> <% end %>
+  </div> </div>

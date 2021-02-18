@@ -20,3 +20,13 @@ p { font-size: 1.1em; line-height: 1.7em; color:#800000;}
 padding-top: 9px; font-weight: bold;}
 #logo:hover { color: #FF1493; text-decoration: none;}
 .nav {background-color: #4B0082;}
+
+/* forms */
+input, textarea, select, .uneditable-input
+{ border: 1px solid #bbb;
+  width: 100%;
+  margin-bottom: 15px;
+
+}
+input { height: auto !important;
+}

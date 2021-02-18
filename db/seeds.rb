@@ -19,7 +19,7 @@ csv.each do |row|
   t.player = row[0] # corresponds to player name.
   t.team = row['team']
   t.points = row['points']
-  t.cost = row['decimal']
+  t.cost = row['cost']
   t.position = row['position']
 
   t.save

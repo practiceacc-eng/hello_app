@@ -7,5 +7,6 @@ Rails.application.routes.draw do
   get '/about', to: 'static_pages#about'
   get '/roll', to: 'static_pages#roll'
   get '/index', to: 'users#index'
+  get '/add', to: 'users#add'
 
 end
