@@ -1,0 +1,17 @@
+<% provide(:title, 'Team Generator') %>
+
+<h1>Team Generator</h1>
+<p>Here are the players we selected for you! Refresh the page (or click <%= link_to "here", team_path %>) if you want a new one!
+
+
+<h2>hi<% @rand_user.inspect %></h2>
+
+<ul>
+  <% @selected_players.each do | user | %>
+
+    <li><%= user.player %>, <%= user.position %>, <%= user.cost %>, <%= user.points %>  </li>
+
+  <% end %>
+</ul>
+
+</p>
