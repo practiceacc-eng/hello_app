@@ -1,3 +1,13 @@
 <% provide(:title, "Player Selector") %>
 <h1>Player Selector</h1>
-<h2><%= @result %></h2>
+<h2>
+ Here's a tool designed to help you shore up some holes in your team, one player at a time.
+</h2>
+<h2>
+  But soccer is definitely not an individual game, so head on over to the <%= link_to "Team Generator page", team_path%>
+  to find more players to make up your squad!
+</h2>
+<h2>
+  And without further ado...your recommended player is:
+</h2>
+<h2><b><%= @result %>!</b></h2>

@@ -1,12 +1,12 @@
 <% provide(:title, 'Players') %>
 
 <h1>Players</h1>
-
+<h2>Here is all the information stored in our database. Peruse this list to find the next star for your team!</h2>
 <ul>
 
   <% @users.each do | user | %>
 
-    <li><%= user.player %> :  <%= user.team %> </li>
+    <li><%= user.player %> :  <%= user.team %>, <%= user.points %> points, plays as a <%= user.position %> </li>
 
   <% end %>
 
