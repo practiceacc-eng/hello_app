@@ -12,7 +12,7 @@ src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/r29/html5.min.j s"></script> <![
   <body> 
   <header class="navbar navbar-fixed-top navbar-inverse"> 
     <div class="container">
-       <%= link_to "FPL Creator", home_path, id: "logo" %> <nav>
+       <%= link_to image_tag("logo.png", class: "fpl-logo", alt: "FPL Creator Logo"), home_path %>
        <ul class="nav navbar-nav navbar-right"> 
          <li><%= link_to "Home", home_path %></li>
          <li><%= link_to "Player Selector", roll_path %></li>
