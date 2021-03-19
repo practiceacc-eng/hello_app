@@ -39,6 +39,7 @@ class UsersController < ApplicationController
   end
 
   # randomly generate a team
+  # https://stackoverflow.com/questions/49525843/rails-5-get-a-random-record-from-db
   def team
     num_selected = 0
     @selected_players = []
@@ -57,7 +58,6 @@ class UsersController < ApplicationController
       end
     end
 
-    print(@selected_players)
     @selected_players
   end
 
